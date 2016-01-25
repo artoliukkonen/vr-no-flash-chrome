@@ -9,3 +9,7 @@ All this plugin does is that it loads hosted version of **vr-no-flash** and inje
 
 1. [Download vr.crx](https://github.com/artoliukkonen/vr-no-flash-chrome/raw/master/dist/vr.crx)
 2. Navigate to **chrome://extensions** and drag&drop downloaded **vr.crx** to your browser window.
+
+## Credits
+
+Since this plugin is just a simple wrapper made by me ( [@artoliukkonen](https://twitter.com/artoliukkonen) ) all credits go to original author of **vr-no-flash** - [@tuomassalo](https://twitter.com/tuomassalo).
