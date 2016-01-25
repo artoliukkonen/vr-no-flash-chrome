@@ -1,9 +1,8 @@
 {
   "name": "VR No Flash",
   "description": "Prettier seat selector, without flash <3",
-  "version": "0.1",
+  "version": "1.0",
   "manifest_version": 3,
-  "permissions": [ "tts" ],
   "content_scripts": [
     {
       "matches": ["https://shop.vr.fi/onlineshop/LoadService.do*"],
